@@ -1,0 +1,45 @@
+name: Stage 2 - Publish Reply
+
+on:
+  workflow_dispatch:
+    inputs:
+      review_id:
+        description: 'Review ID（从飞书卡片复制）'
+        required: true
+        type: string
+
+permissions:
+  contents: write  # 需要 commit 把 pending 挪到 published
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install google-api-python-client google-auth requests
+
+      - name: Publish
+        env:
+          GP_JSON_KEY: ${{ secrets.GP_JSON_KEY }}
+          AI_REPLY_KEY: ${{ secrets.AI_REPLY_KEY }}
+          PACKAGE_NAME: ${{ secrets.PACKAGE_NAME }}
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+        run: python publish.py "${{ github.event.inputs.review_id }}"
+
+      - name: Commit move pending -> published
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pending/ published/ 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "publish: ${{ github.event.inputs.review_id }}"
+            git push
+          fi
