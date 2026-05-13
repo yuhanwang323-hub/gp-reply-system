@@ -1,0 +1,48 @@
+name: Stage 1 - Generate Drafts
+
+on:
+  workflow_dispatch:
+    inputs:
+      days_back:
+        description: '回溯多少天'
+        required: true
+        default: '7'
+        type: string
+
+permissions:
+  contents: write  # 需要写权限来 commit pending/
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install google-api-python-client google-auth requests
+
+      - name: Generate drafts
+        env:
+          GP_JSON_KEY: ${{ secrets.GP_JSON_KEY }}
+          AI_REPLY_KEY: ${{ secrets.AI_REPLY_KEY }}
+          PACKAGE_NAME: ${{ secrets.PACKAGE_NAME }}
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+        run: python draft.py ${{ github.event.inputs.days_back }}
+
+      - name: Commit pending drafts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pending/ published/ rejected/ 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "draft: add pending reviews"
+            git push
+          else
+            echo "No new drafts to commit."
+          fi
