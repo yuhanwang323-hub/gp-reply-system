@@ -132,9 +132,12 @@ def generate_ai_reply(text, star, skill_pack, is_update=False):
 
 # ================= 飞书推送 =================
 def push_text(text):
-    """简单文本推送。"""
+    """简单文本推送。自动加 [GP] 前缀以满足飞书关键词校验。"""
     if not FEISHU_WEBHOOK:
         return
+    # 如果消息里已经有 [GP] 就不重复加
+    if not text.startswith('[GP]'):
+        text = f'[GP] {text}'
     try:
         requests.post(
             FEISHU_WEBHOOK,
@@ -171,7 +174,7 @@ def push_draft_card(draft):
             "config": {"wide_screen_mode": True},
             "header": {
                 "title": {"tag": "plain_text",
-                          "content": f"{tag} {stars}  待审核"},
+                          "content": f"[GP] {tag} {stars}  待审核"},
                 "template": "blue" if (draft.get('star') or 0) >= 4 else "orange",
             },
             "elements": [
