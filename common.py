@@ -34,6 +34,21 @@ def get_service():
     return build('androidpublisher', 'v3', credentials=creds)
 
 
+# ================= GP 发布 =================
+def publish_reply(service, review_id, reply_text):
+    """调 GP API 发布回复。成功返回 True，失败返回 False（不抛出）。"""
+    try:
+        service.reviews().reply(
+            packageName=PACKAGE_NAME,
+            reviewId=review_id,
+            body={'replyText': reply_text},
+        ).execute()
+        return True
+    except Exception as e:
+        print(f"发布失败 {review_id[:10]}: {e}")
+        return False
+
+
 # ================= 话术包 =================
 def get_skill_pack():
     file_path = 'skill.txt'
