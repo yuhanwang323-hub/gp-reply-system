@@ -6,7 +6,12 @@
   "dev_time": 0,
   "text_original": "leider ist die KI sehr dumm vergisst das Geschehene nach nur wenige sätze und man landet in einem loop, in dem die KI einfach lügt und dinge behauptet die nicht stimmen wieder legt man die fängt es wieder von vorne an mit nein das hast du nicht und nein hast du nicht gesagt etc.",
   "text_zh": "遗憾的是，这个人工智能非常愚蠢，仅仅几句话之后就会忘记发生过的事情，让人陷入一种循环：人工智能只是在撒谎，并断言一些不属实的事情；如果你反驳它，它又会从头开始，说着“不，你没做过”和“不，你没说过”之类的话。",
-  "reply_original": "Es tut mir leid, dass die KI wichtige Details vergisst und in Loops feststeckt. Wir haben gerade ein Memory-Service-Upgrade gestartet, um die Langzeiterinnerung zu verbessern.\n\nBitte senden Sie Screenshots der Fehler an support@fantachat.ai, damit unsere Entwickler das Problem beheben können. Wir arbeiten hart daran, diese Loops zu stoppen!",
+  "reply_original": "Hallo, es tut uns sehr leid, dass dies passiert ist. Bitte senden Sie einen Screenshot des Fehlers an support@fantachat.ai, damit unsere Entwickler das Problem lösen können. Wir arbeiten hart daran, diese Loops zu stoppen!",
   "reply_zh": "很抱歉，AI 遗忘了重要细节并陷入了循环。我们刚刚启动了记忆服务升级，以改善长期记忆。\n\n请将错误截图发送至 support@fantachat.ai，以便我们的开发人员解决问题。我们正在努力停止这些循环！",
-  "created_at": 1778825120
+  "created_at": 1778825120,
+  "reply_original_before_override": "Es tut mir leid, dass die KI wichtige Details vergisst und in Loops feststeckt. Wir haben gerade ein Memory-Service-Upgrade gestartet, um die Langzeiterinnerung zu verbessern.\n\nBitte senden Sie Screenshots der Fehler an support@fantachat.ai, damit unsere Entwickler das Problem beheben können. Wir arbeiten hart daran, diese Loops zu stoppen!",
+  "override_input": "你好，非常抱歉出现这种情况，请将错误截图发送至 support@fantachat.ai，以便我们的开发人员解决问题。我们正在努力停止这些循环！",
+  "published_at": 1778825371,
+  "auto_published": false,
+  "was_overridden": true
 }
