@@ -7,9 +7,14 @@ on:
         description: 'Review ID（从飞书卡片复制）'
         required: true
         type: string
+      override_reply:
+        description: '自定义回复内容（可选，留空就用原草稿。中文会自动翻译成原评论语种）'
+        required: false
+        type: string
+        default: ''
 
 permissions:
-  contents: write  # 需要 commit 把 pending 挪到 published
+  contents: write
 
 jobs:
   publish:
@@ -32,7 +37,7 @@ jobs:
           AI_REPLY_KEY: ${{ secrets.AI_REPLY_KEY }}
           PACKAGE_NAME: ${{ secrets.PACKAGE_NAME }}
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
-        run: python publish.py "${{ github.event.inputs.review_id }}"
+        run: python publish.py "${{ github.event.inputs.review_id }}" "${{ github.event.inputs.override_reply }}"
 
       - name: Commit move pending -> published
         run: |
