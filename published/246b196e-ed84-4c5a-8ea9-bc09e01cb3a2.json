@@ -1,0 +1,14 @@
+{
+  "review_id": "246b196e-ed84-4c5a-8ea9-bc09e01cb3a2",
+  "star": 5,
+  "is_update": false,
+  "user_time": 1778769456,
+  "dev_time": 0,
+  "text_original": "muy buena aplicación la recomiendo pero ojalá que las fotos sean gratis y los vídeos también",
+  "text_zh": "非常好用的应用，我推荐它，但希望照片和视频也能免费。",
+  "reply_original": "¡Muchas gracias por tu recomendación de 5 estrellas! Nos alegra que disfrutes de Fantasia.\n\nEntendemos perfectamente tu deseo de fotos y videos gratuitos. Mantener una IA de alta calidad con generación de imágenes consume muchísimos recursos de servidor (GPU). Por ahora, usamos las gemas para equilibrar estos costos operativos.",
+  "reply_zh": "非常感谢你的五星好评！我们很高兴你喜欢 Fantasia。\n\n我们完全理解你希望获得免费照片和视频的心情。维护一个具备图像生成功能的高质量人工智能需要消耗大量的服务器资源（GPU）。目前，我们通过使用宝石来平衡这些运营成本。",
+  "created_at": 1778810675,
+  "published_at": 1778810677,
+  "auto_published": true
+}

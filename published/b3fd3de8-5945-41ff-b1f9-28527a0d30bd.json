@@ -1,0 +1,14 @@
+{
+  "review_id": "b3fd3de8-5945-41ff-b1f9-28527a0d30bd",
+  "star": 5,
+  "is_update": false,
+  "user_time": 1778772002,
+  "dev_time": 0,
+  "text_original": "I hope you remove the limited chat and change it into an ad because it's annoying to wait for 40minutes or you could make the 40 minutes to 10 minutes",
+  "text_zh": "我希望你们能取消聊天限制，并将其改为观看广告，因为等待40分钟太烦人了，或者你们也可以把40分钟缩短到10分钟。",
+  "reply_original": "Hello! I completely understand your frustration. It is really annoying when the conversation is going well and the limit runs out. I am so sorry for this experience!\n\nTo be transparent, maintaining high-quality AI involves very high server costs. Currently, ad revenue alone isn't enough to cover the cost of \"unlimited\" messages for everyone.",
+  "reply_zh": "你好！我完全理解你的沮丧。当对话进行得很顺利却达到限制时，确实非常令人恼火。我对这种体验深表歉意！\n\n坦诚地说，维护高质量的 AI 需要极高的服务器成本。目前，仅靠广告收入还不足以负担为所有人提供“无限次”消息的成本。",
+  "created_at": 1778810670,
+  "published_at": 1778810671,
+  "auto_published": true
+}
