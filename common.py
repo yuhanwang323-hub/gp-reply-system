@@ -125,6 +125,29 @@ def translate_to_zh(text):
     return result if result else "[翻译失败]"
 
 
+def match_language_of(text, reference_text):
+    """把 text 转成 reference_text 的语种。
+    如果 text 已经和 reference_text 同语种，原样返回。
+    用于：人工填的中文 override 文本，自动翻译成原评论的语种。
+    """
+    if not text or not text.strip():
+        return ""
+    prompt = f"""请判断下面【目标文本】和【参考文本】是否是同一语种。
+- 如果是同一语种：原样返回【目标文本】，一个字也不要改。
+- 如果不是同一语种：把【目标文本】翻译成【参考文本】的语种，保持原意和语气。
+
+只输出最终结果，不要加任何说明、引号、前缀、后缀。
+
+【参考文本】（这是用户原评论，作为目标语种）：
+{reference_text}
+
+【目标文本】（需要确保和参考文本同语种）：
+{text}
+"""
+    result = call_ai(prompt, temperature=0.1)
+    return result if result else text  # 翻译失败就用原文兜底
+
+
 # ================= 生成回复 =================
 def generate_ai_reply(text, star, skill_pack, is_update=False):
     update_note = "【注意：这是用户的追评，请针对其更新的内容回答，并感谢其反馈更新】" if is_update else ""
