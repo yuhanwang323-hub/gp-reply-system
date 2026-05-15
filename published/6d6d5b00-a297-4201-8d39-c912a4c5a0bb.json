@@ -1,0 +1,17 @@
+{
+  "review_id": "6d6d5b00-a297-4201-8d39-c912a4c5a0bb",
+  "star": 3,
+  "is_update": false,
+  "user_time": 1778792494,
+  "dev_time": 0,
+  "text_original": "chat text are deleted if I go off the app and back on it needs to be permanent",
+  "text_zh": "如果我退出应用再回来，聊天记录就会被删除，我需要它们永久保存。",
+  "reply_original": "Hello, we are very sorry for this situation! Could you please send your specific issue to our email at support@fantachat.ai? We will help you resolve it!",
+  "reply_zh": "你好！对于这次令人沮丧的体验，我深表歉意。您的聊天记录理应是自动保存的。为了帮助我们调查您的消息消失的原因，请将您的 UID 和问题描述发送邮件至 support@fantachat.ai。我们将优先为您解决此问题，确保您的记忆能够永久保存！",
+  "created_at": 1778810614,
+  "reply_original_before_override": "Hi there! I am truly sorry for this frustrating experience. Your chat history should definitely be saved automatically. To help us investigate why your messages are disappearing, please email your UID and a description of the issue to support@fantachat.ai. We will prioritize fixing this for you so your memories stay permanent!",
+  "override_input": "你好，非常抱歉出现这种情况！可以把你具体的问题发到我们的邮箱support@fantachat.ai吗？我们帮你解决！",
+  "published_at": 1778811578,
+  "auto_published": false,
+  "was_overridden": true
+}
