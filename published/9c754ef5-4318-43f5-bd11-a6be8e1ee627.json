@@ -8,5 +8,7 @@
   "text_zh": "最近在这里发现了一个可以探索动漫角色的选项，但其中并未包含来自剧集的真实细节。",
   "reply_original": "I'm sorry the character didn't capture the anime's details accurately. AI sometimes misses specific lore, but we're working to improve its knowledge base. Please send the character name and missing details to support@fantachat.ai so our team can fix it. You can also use the \"Mask\" feature in chat to manually add specific traits!",
   "reply_zh": "很抱歉，该角色未能准确还原动漫中的细节。AI 有时会遗漏特定的背景设定，但我们正在努力完善其知识库。请将角色名称和缺失的细节发送至 support@fantachat.ai，以便我们的团队进行修复。您也可以在聊天中使用“面具”功能来手动添加特定特征！",
-  "created_at": 1778825100
+  "created_at": 1778825100,
+  "published_at": 1778825205,
+  "auto_published": false
 }
