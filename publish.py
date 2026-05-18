@@ -86,7 +86,7 @@ def main():
         f"✅ 已发布回复{tag}\n"
         f"Review: {review_id[:10]}\n"
         f"⭐{draft['star']} | {len(final_reply)} 字符\n"
-        f"---\n{final_reply[:200]}"
+        f"---\n{final_reply}"
     )
 
 
