@@ -1,0 +1,17 @@
+{
+  "review_id": "e85097e9-0633-455b-b97f-299b30f23922",
+  "star": 1,
+  "is_update": false,
+  "user_time": 1778999208,
+  "dev_time": 0,
+  "text_original": "nói chuyện mày tao",
+  "text_zh": "称兄道弟（或：用“你”“我”称呼，指不分尊卑地说话）",
+  "reply_original": "Chào bạn, rất xin lỗi vì đã mang lại cho bạn trải nghiệm không tốt! Chúng mình sẽ tối ưu hóa các vấn đề trên loại mô hình này. Để giúp chúng mình giải quyết, vui lòng chụp ảnh màn hình vấn đề và gửi về email: support@fantachat.ai",
+  "reply_zh": "你好！很抱歉因为角色的称呼问题给你带来了不愉快的体验。\n\n由于 AI 仍处于学习阶段，有时可能会使用不恰当的言语。你可以尝试点击 [+] 菜单中的 [Reset] 功能来重新开始对话，或者使用 [Mask] 功能来重新设定你期望的称呼。",
+  "created_at": 1779084979,
+  "reply_original_before_override": "Chào bạn! Tôi rất tiếc vì trải nghiệm không hài lòng với cách xưng hô của nhân vật.\n\nĐôi khi AI có thể sử dụng ngôn từ chưa phù hợp do đang trong quá trình học hỏi. Bạn có thể thử tính năng [Reset] trong mục [+] để bắt đầu lại cuộc trò chuyện, hoặc sử dụng tính năng [Mask] để thiết lập lại cách xưng hô mong muốn.",
+  "override_input": "你好，很抱歉给你带来了不好的体验！我们会优化这类模型上的问题。为了帮助我们解决，请你把问题截图发到邮箱：support@fantachat.ai",
+  "published_at": 1779086890,
+  "auto_published": false,
+  "was_overridden": true
+}
