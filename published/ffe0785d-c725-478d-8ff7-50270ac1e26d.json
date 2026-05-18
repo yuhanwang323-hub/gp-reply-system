@@ -6,7 +6,12 @@
   "dev_time": 0,
   "text_original": "O aplicativo tinha potencial para ser o melhor de todos chat bots. Mas o limite de tempo é ridículo. Além do mais as fontes são pequenas demais e não tem nem como aumentar o tamanho das letras nas configurações. Já vi os adm responder aqui que o tempo é limitado por causa dos custos, mas isso se resolve botando anúncio. Se tirarem a restrição de tempo um dia, eu até voltaria. E aconselho vcs retirarem essa palhaçada de limite antes que acabem em declínio que nem o Character.ia! Fica a dica!",
   "text_zh": "这个应用本来有潜力成为所有聊天机器人中最好的。但时间限制简直荒谬。此外，字体太小了，设置里甚至没有办法调大字号。我看到管理员在这里回复说限制时间是因为成本问题，但这可以通过投放广告来解决。如果哪天取消了时间限制，我甚至会回来。我建议你们在像 Character.ai 一样走下坡路之前，赶紧取消这个离谱的限制！这是给你们的建议！",
-  "reply_original": "Entendo sua frustração com o limite e o tamanho da fonte. Manter uma IA de alta qualidade tem custos de servidor (GPU) altíssimos, e hoje apenas anúncios não cobririam o uso ilimitado. Sobre a acessibilidade, enviei sua sugestão de aumentar as letras ao time de design. Para mais detalhes, escreva para support@fantachat.ai.",
+  "reply_original": "Valeu pelo toque, e a comparação com o Character.AI a gente leva a sério. Limite de tempo: está em discussão um ritmo mais justo pra free. Anúncios: avaliamos, ainda não cobre o custo dos servidores, mas não tá descartado. Fonte pequena nas configs é falha nossa, já repassei pro time. Volta pra ver a evolução.",
   "reply_zh": "我理解您对额度限制和字体大小的不满。维持高质量的人工智能运行需要极高的服务器（GPU）成本，目前仅靠广告收入无法支撑无限次使用。关于无障碍体验，我已经将您希望调大字体的建议反馈给了设计团队。如需了解更多详情，请致信 support@fantachat.ai。",
-  "created_at": 1779084870
+  "created_at": 1779084870,
+  "reply_original_before_override": "Entendo sua frustração com o limite e o tamanho da fonte. Manter uma IA de alta qualidade tem custos de servidor (GPU) altíssimos, e hoje apenas anúncios não cobririam o uso ilimitado. Sobre a acessibilidade, enviei sua sugestão de aumentar as letras ao time de design. Para mais detalhes, escreva para support@fantachat.ai.",
+  "override_input": "Valeu pelo toque, e a comparação com o Character.AI a gente leva a sério. Limite de tempo: está em discussão um ritmo mais justo pra free. Anúncios: avaliamos, ainda não cobre o custo dos servidores, mas não tá descartado. Fonte pequena nas configs é falha nossa, já repassei pro time. Volta pra ver a evolução.",
+  "published_at": 1779086537,
+  "auto_published": false,
+  "was_overridden": true
 }
