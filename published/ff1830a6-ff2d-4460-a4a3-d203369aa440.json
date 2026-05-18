@@ -8,5 +8,7 @@
   "text_zh": "这是我用过最烂的 AI 之一！角色往往歇斯底里且精神质，会陷入死循环，动作描写只写一半，当你要求它写完时，AI 会完全改变故事的走向。我之前用的是付费版，但我已经取消订阅了，因为根本不值得！",
   "reply_original": "Hi there, I am truly sorry for the unpleasant experience! I understand how frustrating it is when characters get stuck in loops or lose track of the story. We are currently upgrading our model to improve logic and consistency. Since you've canceled, please share your UID and examples at support@fantachat.ai so we can investigate and improve.",
   "reply_zh": "你好，对于这次不愉快的使用体验，我深表歉意！我理解角色陷入循环或脱离剧情是多么令人沮丧。我们目前正在升级模型，以提升逻辑性和连贯性。由于您已取消订阅，请将您的 UID 和相关案例发送至 support@fantachat.ai，以便我们进行调查和改进。",
-  "created_at": 1779084933
+  "created_at": 1779084933,
+  "published_at": 1779086711,
+  "auto_published": false
 }
