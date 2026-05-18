@@ -8,5 +8,7 @@
   "text_zh": "挺不错的，但你们应该检查一下菜单，因为有些地方显示周费为0.35欧分，可一旦点击进去，计算出来的价格就完全不一样了！",
   "reply_original": "Merci pour votre retour ! Nous sommes désolés pour la confusion concernant les tarifs affichés. Ce décalage peut être dû à un bug d'affichage ou aux taxes locales de Google. Pourriez-vous envoyer une capture d'écran de l'offre à support@fantachat.ai ? Cela nous aidera à corriger ce problème rapidement. Merci de nous aider à nous améliorer !",
   "reply_zh": "感谢您的反馈！对于显示的报价给您带来的困惑，我们深表歉意。这种差异可能是由于显示错误或谷歌收取的当地税费导致的。能否请您将该优惠页面的截图发送至 support@fantachat.ai？这将帮助我们尽快解决此问题。感谢您帮助我们改进！",
-  "created_at": 1779084885
+  "created_at": 1779084885,
+  "published_at": 1779086637,
+  "auto_published": false
 }
