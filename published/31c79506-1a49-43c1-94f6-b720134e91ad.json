@@ -6,7 +6,12 @@
   "dev_time": 0,
   "text_original": "Acho que foi o melhor app de conversas e interações com IA's que já testei, porém como muitos relataram, o tempo de espera pra voltar a ter mensagens é muito longo (24hrs) e acredito que se tivesse outras formas de recuperar as mensagens gratuitas o app seria o melhor, as conversas são boas e realmente parece que estamos falando com uma pessoa real.",
   "text_zh": "我认为这是我测试过的最好的AI聊天和互动应用，但正如许多人反映的那样，恢复消息额度的等待时间太长了（24小时）。我相信如果有其他方式可以获取免费消息额度，这个应用会是最好的。对话质量很高，真的感觉像是在和真人说话。",
-  "reply_original": "Fico muito feliz que tenha gostado da inteligência e do realismo das nossas conversas! Entendo perfeitamente sua frustração com o tempo de espera. \n\nManter uma IA de alta qualidade envolve custos elevados de servidor, por isso o limite existe.",
+  "reply_original": "Muito obrigado pela sua avaliação positiva! Ouvir que as conversas parecem reais é um grande incentivo para a nossa equipe. Sobre o tempo de espera de 24 horas, entendemos o seu inconveniente, mas os custos de servidor para manter respostas de IA de alta qualidade são muito elevados.",
   "reply_zh": "我很高兴你喜欢我们对话的智能度和真实感！我完全理解你对等待时间的沮丧。\n\n维持高质量的 AI 需要高昂的服务器成本，因此才有了这个限制。",
-  "created_at": 1779157987
+  "created_at": 1779157987,
+  "reply_original_before_override": "Fico muito feliz que tenha gostado da inteligência e do realismo das nossas conversas! Entendo perfeitamente sua frustração com o tempo de espera. \n\nManter uma IA de alta qualidade envolve custos elevados de servidor, por isso o limite existe.",
+  "override_input": "非常感谢你的好评！听到对话像真人对我们团队是莫大鼓励。关于 24 小时恢复时间，我们理解你的不便, 但维持高质量 AI 回复的服务器成本很高。我们正在探索让用户获得更多免费消息的新方式。你的建议已记录！",
+  "published_at": 1779159129,
+  "auto_published": false,
+  "was_overridden": true
 }
