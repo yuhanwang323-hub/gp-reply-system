@@ -6,7 +6,12 @@
   "dev_time": 0,
   "text_original": "Don't like that you can't type ideas or scripts that you can read in a dime store Harlequin romance novel. Racy but not Graphic, and it still keeps telling me to \"tweek\" it. That would be Understandable if the Rating wasn't (M) MATURE. But, it's not helpful when I'm trying to use it as a Ghostwriter for my Novels. . . Emochi is better...",
   "text_zh": "我不喜欢无法输入那些在廉价商店的哈利奎恩言情小说里能读到的点子或剧本。内容虽然火辣但不露骨，可它还是不停地叫我“调整”。如果分级不是（M）成熟级，那还可以理解。但当我试图把它当作我小说的代笔工具时，这真的没啥用……Emochi 更好用……",
-  "reply_original": "Hi! I understand your frustration regarding the content filters, especially when using the app for creative writing. To comply with Google Play policies, we must maintain certain safety boundaries, even with a Mature rating. However, we're constantly refining these triggers to be more precise.",
+  "reply_original": "Hello! I understand your frustration with the content filters, especially when using the app for creative writing. To comply with Google Play policies, we must maintain certain safety boundaries even with a Mature rating.",
   "reply_zh": "你好！我理解你对内容过滤器的沮丧，尤其是在使用该应用进行创意写作时。为了遵守 Google Play 的政策，即使在成人分级下，我们也必须保持一定的安全界限。不过，我们正在不断优化这些触发机制，以使其更加精准。",
-  "created_at": 1779157981
+  "created_at": 1779157981,
+  "reply_original_before_override": "Hi! I understand your frustration regarding the content filters, especially when using the app for creative writing. To comply with Google Play policies, we must maintain certain safety boundaries, even with a Mature rating. However, we're constantly refining these triggers to be more precise.",
+  "override_input": "你好！我理解你对内容过滤器的沮丧，尤其是在使用该应用进行创意写作时。为了遵守 Google Play 的政策，即使在成人分级下，我们也必须保持一定的安全界限。我们正在尝试帮助用户优化，方便发一些被卡的例句到邮箱support@fantachat.ai吗？",
+  "published_at": 1779158623,
+  "auto_published": false,
+  "was_overridden": true
 }
