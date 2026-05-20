@@ -8,5 +8,7 @@
   "text_zh": "这个应用出故障了",
   "reply_original": "Siento mucho que la app te esté fallando. Para ayudarte a resolverlo de inmediato, por favor envíanos un correo a support@fantachat.ai con tu UID (lo encuentras en Ajustes) y una breve descripción o captura del error. Estamos trabajando para que tu experiencia sea perfecta. ¡Gracias por tu paciencia!",
   "reply_zh": "非常抱歉应用程序出现了问题。为了帮助您立即解决，请将您的 UID（在设置中可以找到）以及错误的简要说明或截图发送邮件至 support@fantachat.ai。我们正致力于让您的体验变得完美。感谢您的耐心等待！",
-  "created_at": 1779239842
+  "created_at": 1779239842,
+  "published_at": 1779240798,
+  "auto_published": false
 }
