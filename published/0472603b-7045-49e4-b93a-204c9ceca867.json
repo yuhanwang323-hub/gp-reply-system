@@ -8,5 +8,7 @@
   "text_zh": "大规模故障",
   "reply_original": "Siento mucho que estés experimentando fallos masivos. Queremos solucionar esto de inmediato. Por favor, envíanos tu UID (al final de Ajustes) y una descripción de los errores o capturas de pantalla a support@fantachat.ai. Nuestro equipo técnico revisará tu caso con prioridad para que puedas volver a disfrutar de la app sin problemas.",
   "reply_zh": "非常抱歉你遇到了严重的故障。我们希望立即解决这个问题。请将你的 UID（在设置末尾）以及错误描述或截图发送至 support@fantachat.ai。我们的技术团队将优先处理你的案例，以便你能重新顺畅地使用应用。",
-  "created_at": 1779239798
+  "created_at": 1779239798,
+  "published_at": 1779241056,
+  "auto_published": false
 }
