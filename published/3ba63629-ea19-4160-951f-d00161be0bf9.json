@@ -8,5 +8,7 @@
   "text_zh": "你的故事不遵循叙事逻辑，甚至随后也无法被修正。",
   "reply_original": "¡Siento mucho que la IA haya perdido el hilo de tu historia! Entiendo lo frustrante que es cuando no sigue la narrativa.\n\nEstamos mejorando nuestro sistema de memoria. Para ayudarte, por favor envía capturas del error a support@fantachat.ai. Mientras tanto, intenta usar el botón [Reiniciar] o la función [Pin] para fijar datos clave.",
   "reply_zh": "非常抱歉，AI 没能跟上你的故事思路！我理解当它无法衔接剧情时是多么令人沮丧。\n\n我们正在改进系统的记忆功能。为了更好地帮助你，请将错误截图发送至 support@fantachat.ai。同时，你可以尝试使用“重新开始”按钮或“置顶 (Pin)”功能来固定关键信息。",
-  "created_at": 1779239864
+  "created_at": 1779239864,
+  "published_at": 1779240514,
+  "auto_published": false
 }
