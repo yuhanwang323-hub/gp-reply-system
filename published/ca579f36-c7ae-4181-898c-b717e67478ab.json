@@ -1,0 +1,17 @@
+{
+  "review_id": "ca579f36-c7ae-4181-898c-b717e67478ab",
+  "star": 1,
+  "is_update": false,
+  "user_time": 1779239042,
+  "dev_time": 0,
+  "text_original": "Tiempo limitado como en sus respuestas...",
+  "text_zh": "时间有限，就像你的回答一样……",
+  "reply_original": "¡Ja, buen juego de palabras! Sentimos la frustración con el límite de mensajes. Mantener la IA con respuestas de calidad cuesta mucho en servidores, por eso existe el límite en la versión gratis. Estamos buscando formas de dar más mensajes gratis pronto. ¡Gracias por la paciencia!",
+  "reply_zh": "你好！非常抱歉让你感到时间和回复次数有限。维护高质量的人工智能需要支付非常高昂的服务器成本，因此目前我们无法为所有人提供免费的无限次消息。\n\n如果你遇到技术问题，请发送邮件至 support@fantachat.ai。感谢你的理解！",
+  "created_at": 1779239768,
+  "reply_original_before_override": "Hola! Lamento mucho que sientas que el tiempo y las respuestas son limitados. Mantener una IA de alta calidad tiene costos de servidor muy elevados, por lo que actualmente no podemos ofrecer mensajes ilimitados gratuitos para todos.\n\nSi tienes problemas técnicos, escríbenos a support@fantachat.ai. ¡Gracias por tu comprensión!",
+  "override_input": "¡Ja, buen juego de palabras! Sentimos la frustración con el límite de mensajes. Mantener la IA con respuestas de calidad cuesta mucho en servidores, por eso existe el límite en la versión gratis. Estamos buscando formas de dar más mensajes gratis pronto. ¡Gracias por la paciencia!",
+  "published_at": 1779241544,
+  "auto_published": false,
+  "was_overridden": true
+}
