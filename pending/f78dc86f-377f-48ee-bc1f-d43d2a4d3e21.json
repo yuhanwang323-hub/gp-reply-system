@@ -1,0 +1,12 @@
+{
+  "review_id": "f78dc86f-377f-48ee-bc1f-d43d2a4d3e21",
+  "star": 1,
+  "is_update": false,
+  "user_time": 1779209365,
+  "dev_time": 0,
+  "text_original": "schließt sich immer automatisch grundlos",
+  "text_zh": "总是无故自动关闭",
+  "reply_original": "Es tut mir sehr leid, dass die App bei Ihnen abstürzt. Um das Problem zu beheben, versuchen Sie bitte, den Cache der App in den Geräteeinstellungen zu leeren oder die App neu zu installieren.\n\nFalls das Problem weiterhin besteht, senden Sie uns bitte Ihre UID und Gerätedetails an support@fantachat.ai. Wir werden das sofort prüfen!",
+  "reply_zh": "非常抱歉，该应用在您的设备上出现了闪退问题。为了解决此问题，请尝试在设备设置中清除应用缓存，或重新安装该应用。\n\n如果问题仍然存在，请将您的 UID 和设备详情发送至 support@fantachat.ai。我们会立即进行核查！",
+  "created_at": 1779239808
+}

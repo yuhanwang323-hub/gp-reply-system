@@ -1,0 +1,14 @@
+{
+  "review_id": "ec1d5e19-b862-42e8-b3b5-7fb2cc9e810d",
+  "star": 4,
+  "is_update": false,
+  "user_time": 1779234808,
+  "dev_time": 0,
+  "text_original": "ultimamente não consigo criar personagem como antes e a maioria que crio fica no privado e isso não está mais imersivo",
+  "text_zh": "最近我无法像以前那样创作角色了，而且我创作的大多数角色都设为私密，这让我不再感到有沉浸感。",
+  "reply_original": "Sinto muito que a criação de personagens não esteja tão imersiva. Sobre os bots ficarem privados, isso ocorre pois personagens públicos precisam passar por uma revisão para aparecerem na busca.\n\nPara editar ou gerenciar seus bots, vá em Perfil > My Bot e pressione e segure o card do personagem.",
+  "reply_zh": "很抱歉角色创建的沉浸感不足。关于机器人变为私密状态的问题，这是因为公开角色需要经过审核才能出现在搜索结果中。\n\n如需编辑或管理您的机器人，请前往“个人资料” (Perfil) > “我的机器人” (My Bot)，然后长按角色卡片。",
+  "created_at": 1779239788,
+  "published_at": 1779239789,
+  "auto_published": true
+}
