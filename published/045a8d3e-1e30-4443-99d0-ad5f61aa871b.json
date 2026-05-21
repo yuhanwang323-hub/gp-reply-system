@@ -1,0 +1,17 @@
+{
+  "review_id": "045a8d3e-1e30-4443-99d0-ad5f61aa871b",
+  "star": 1,
+  "is_update": false,
+  "user_time": 1779324928,
+  "dev_time": 0,
+  "text_original": "bring back v2.4.6 ; it was perfect... now the text is just messy, unable to read in this condition... ;w;",
+  "text_zh": "把 v2.4.6 带回来吧；那个版本很完美……现在的文本简直乱七八糟，这种状态下根本没法看…… ;w;",
+  "reply_original": "Hello! I am deeply sorry for the poor text experience! To help us resolve the issues you encountered during the system upgrade, please send a screenshot of the messy text and your UID to support@fantachat.ai. Our technical team will immediately launch an investigation to restore the quality of service you love. Thank you for your patience!",
+  "reply_zh": "你好！对于糟糕的文本体验，我深表歉意！我们最近升级了系统，AI 似乎还在适应中。为了帮助我们解决这个问题，请将乱码文本的截图和您的 UID 发送至 support@fantachat.ai。我们的技术团队将立即展开调查，以恢复您喜爱的服务质量。感谢您的耐心等待！",
+  "created_at": 1779327033,
+  "reply_original_before_override": "Hi there, I am truly sorry for the messy text experience! We recently upgraded our system, and it seems the AI is still adapting. To help us fix this, please send a screenshot of the unreadable text and your UID to support@fantachat.ai. Our tech team will investigate immediately to restore the quality you loved. Thank you for your patience!",
+  "override_input": "你好！对于糟糕的文本体验，我深表歉意！为了帮助我们解决你在系统升级中遇到的问题，请将乱码文本的截图和您的 UID 发送至 support@fantachat.ai。我们的技术团队将立即展开调查，以恢复您喜爱的服务质量。感谢您的耐心等待！",
+  "published_at": 1779327465,
+  "auto_published": false,
+  "was_overridden": true
+}
