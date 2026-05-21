@@ -1,0 +1,17 @@
+{
+  "review_id": "87827c84-d2d7-4b25-a0f6-0e2fee2f1727",
+  "star": 1,
+  "is_update": false,
+  "user_time": 1779263629,
+  "dev_time": 0,
+  "text_original": "keep the timer till 29 min not the entire day",
+  "text_zh": "把计时器设为29分钟，而不是一整天",
+  "reply_original": "A full day between sessions is way too long when you're invested in a story, and we know the current pacing isn't great for free users. Shorter cooldowns are actively being discussed internally. In the meantime, the Mission Center (3rd tab, top right task icon) has free chats you can claim daily. Thanks for the honest feedback.",
+  "reply_zh": "你好！我完全理解你的沮丧。当对话进行得很顺利却达到限制时，确实非常令人恼火。对于这种体验，我深表歉意！\n\n坦诚地说：维持高质量的人工智能涉及非常高的服务器成本。目前，广告收入不足以覆盖所有人的“无限”消息。",
+  "created_at": 1779327118,
+  "reply_original_before_override": "Hi there! I completely understand your frustration. It is really annoying when the conversation is going well and the limit runs out. I am so sorry for this experience!\n\nTo be transparent: maintaining high-quality AI involves very high server costs. Currently, ad revenue isn't enough to cover \"unlimited\" messages for everyone.",
+  "override_input": "A full day between sessions is way too long when you're invested in a story, and we know the current pacing isn't great for free users. Shorter cooldowns are actively being discussed internally. In the meantime, the Mission Center (3rd tab, top right task icon) has free chats you can claim daily. Thanks for the honest feedback.",
+  "published_at": 1779327731,
+  "auto_published": false,
+  "was_overridden": true
+}
