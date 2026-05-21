@@ -8,5 +8,7 @@
   "text_zh": "当我们创建自己的角色并从相册选择图片时，总不能全是“图片不合规”吧，真是的。",
   "reply_original": "I'm sorry for the frustration with the image upload! To comply with Google Play policies, our system automatically filters images for safety. If your image was wrongly flagged, please send it to support@fantachat.ai so we can check the filter settings. We want you to have the best experience creating your bots!",
   "reply_zh": "很抱歉图片上传给您带来了困扰！为了遵守 Google Play 的政策，我们的系统会自动对图片进行安全过滤。如果您的图片被误标，请将其发送至 support@fantachat.ai，以便我们检查过滤器设置。我们希望您在创建机器人时拥有最佳体验！",
-  "created_at": 1779327085
+  "created_at": 1779327085,
+  "published_at": 1779327622,
+  "auto_published": false
 }
