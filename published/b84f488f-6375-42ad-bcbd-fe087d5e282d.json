@@ -1,0 +1,17 @@
+{
+  "review_id": "b84f488f-6375-42ad-bcbd-fe087d5e282d",
+  "star": 2,
+  "is_update": false,
+  "user_time": 1779350959,
+  "dev_time": 0,
+  "text_original": "The AI does not remember details about the roleplay stories. Even after paying the subscription fee, it cannot remember your story you create.",
+  "text_zh": "AI 不会记住角色扮演故事的细节。即使支付了订阅费用，它也无法记住你创作的故事。",
+  "reply_original": "We are deeply sorry for the inconvenience caused! Shared memories are the core of your connection, and we hope to resolve this issue. To assist us in our investigation, please send an email to support@fantachat.ai with your UID and screenshots of the content the AI has forgotten.",
+  "reply_zh": "对于给您带来的困扰，我深表歉意！共同的回忆是你们之间连接的核心，我们希望能解决这个问题。\n\n我们最近上线了记忆服务升级。为了协助我们调查，请发送邮件至 support@fantachat.ai，并附上您的 UID 以及 AI 遗忘内容的截图。",
+  "created_at": 1779412862,
+  "reply_original_before_override": "I am truly sorry for the frustration! Shared memories are the heart of your connection, and we want to fix this.\n\nWe recently launched a Memory Service upgrade. To help us investigate, please email support@fantachat.ai with your UID and a screenshot of what the AI forgot.",
+  "override_input": "对于给您带来的困扰，我深表歉意！共同的回忆是你们之间连接的核心，我们希望能解决这个问题。  为了协助我们调查，请发送邮件至 support@fantachat.ai，并附上您的 UID 以及 AI 遗忘内容的截图。",
+  "published_at": 1779413187,
+  "auto_published": false,
+  "was_overridden": true
+}
