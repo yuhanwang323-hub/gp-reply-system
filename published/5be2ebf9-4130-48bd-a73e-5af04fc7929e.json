@@ -6,7 +6,12 @@
   "dev_time": 0,
   "text_original": "En general, las historias son buenas, te entretienes, pero no lo considero como para pagar tanto por algo irreal. Gracias a Dios, no estoy tan... necesitado, solo la descargue por genuina curiosidad. Lástima, una app más que se aprovecha de \"la necesidad\" de algunos.",
   "text_zh": "总的来说，故事还不错，挺解闷的，但我觉得不值得为这些虚构的内容付这么多钱。谢天谢地，我还没到那种……饥不择食的地步，下载它纯粹是出于好奇。可惜，又是一个利用某些人“需求”的应用程序。",
-  "reply_original": "Hola! Entendemos tu punto de vista. Mantener una IA avanzada con respuestas de alta calidad implica costos de servidor muy elevados, por lo que buscamos un equilibrio para seguir mejorando. Valoramos tu curiosidad y honestidad. Si tienes sugerencias para mejorar la experiencia, escríbenos a support@fantachat.ai. Gracias por probarnos!",
+  "reply_original": "Gracias por probarnos y por ser honesto. Entendemos que el precio puede no justificarse para todos, y eso es totalmente válido. Seguimos trabajando para que la experiencia valga la pena. Si algún día quieres volver, aquí estaremos.",
   "reply_zh": "你好！我们理解你的观点。维护一个能够提供高质量回答的高级人工智能需要非常高昂的服务器成本，因此我们正在寻求一种平衡，以便持续改进。我们非常看重你的好奇心和诚实。如果你有任何改进体验的建议，请致信 support@fantachat.ai。感谢你的试用！",
-  "created_at": 1779671261
+  "created_at": 1779671261,
+  "reply_original_before_override": "Hola! Entendemos tu punto de vista. Mantener una IA avanzada con respuestas de alta calidad implica costos de servidor muy elevados, por lo que buscamos un equilibrio para seguir mejorando. Valoramos tu curiosidad y honestidad. Si tienes sugerencias para mejorar la experiencia, escríbenos a support@fantachat.ai. Gracias por probarnos!",
+  "override_input": "Gracias por probarnos y por ser honesto. Entendemos que el precio puede no justificarse para todos, y eso es totalmente válido. Seguimos trabajando para que la experiencia valga la pena. Si algún día quieres volver, aquí estaremos.",
+  "published_at": 1779672194,
+  "auto_published": false,
+  "was_overridden": true
 }
