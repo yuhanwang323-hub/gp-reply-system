@@ -6,7 +6,12 @@
   "dev_time": 0,
   "text_original": "looks like we have a little false advertising! app claims to be fantasy based but no longer wants you to say certain things showing the false advertising claiming you say what you want then trying to illegally add limitations. putting this here for anyone else that intends on disputing charges in relation to bad or false deceptive advertising",
   "text_zh": "看来我们遇到了虚假广告！该应用声称以幻想为基础，但现在却不再允许你说某些话，这证明了其虚假宣传——他们声称你可以畅所欲言，随后却试图非法添加限制。把这段话发在这里，是给其他打算针对这种恶劣或虚假欺骗性广告引起的费用提出申诉的人看的。",
-  "reply_original": "Hi there, I am truly sorry for the frustration. To comply with Google Play platform policies, we must maintain certain content moderation standards regarding specific topics. These guidelines are required for the app to remain available on the store.\n\nHowever, we value your feedback on how these limits affect your experience.",
+  "reply_original": "Hi, we hear you. The content limits come from Google Play's platform policies, not our own choice. If you'd like to share more details or discuss a resolution, please email us at support@fantachat.ai and we'll look into it personally.",
   "reply_zh": "你好，对于给你带来的困扰，我深表歉意。为了遵守 Google Play 平台的政策，我们必须在特定话题上维持一定的内审标准。这些准则是确保应用能在商店中继续上架所必需的。\n\n尽管如此，我们非常重视你就这些限制如何影响你的体验所提供的反馈。",
-  "created_at": 1779671387
+  "created_at": 1779671387,
+  "reply_original_before_override": "Hi there, I am truly sorry for the frustration. To comply with Google Play platform policies, we must maintain certain content moderation standards regarding specific topics. These guidelines are required for the app to remain available on the store.\n\nHowever, we value your feedback on how these limits affect your experience.",
+  "override_input": "Hi, we hear you. The content limits come from Google Play's platform policies, not our own choice. If you'd like to share more details or discuss a resolution, please email us at support@fantachat.ai and we'll look into it personally.",
+  "published_at": 1779673079,
+  "auto_published": false,
+  "was_overridden": true
 }
