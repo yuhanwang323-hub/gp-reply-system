@@ -1,0 +1,12 @@
+{
+  "review_id": "f8d54b26-912a-434f-a857-9e501ff0742a",
+  "star": 1,
+  "is_update": false,
+  "user_time": 1779575716,
+  "dev_time": 0,
+  "text_original": "Die App wirbt mit Langzeitgedächtnis (Memories), konsistenten Charakteren und individuellen Storylines – aber nichts davon funktioniert zuverlässig: Memories werden ignoriert: Auch angepinnte Erinnerungen werden nicht beachtet, die KI vergisst alles nach wenigen Nachrichten Charaktere werden übersteuert: Eigene Charakterbeschreibungen werden von der KI ignoriert (z. B.Held wird als Schurke behandelt) Story wiederholt sich:Gleiche Handlungsstränge immer wieder, keine individuelle Entwicklung uvm.",
+  "text_zh": "该应用程序以长期记忆（Memories）、一致的角色设定和个性化剧情为卖点——但没有一项功能可以可靠运行：记忆被忽略：即使是置顶的记忆也不被理会，AI 在寥寥数条消息后就会遗忘一切；角色设定被覆盖：用户自定义的角色描述被 AI 忽略（例如：英雄被当作恶棍对待）；剧情重复：相同的故事情节反复出现，缺乏个性化发展，等等。",
+  "reply_original": "Es tut mir sehr leid, dass die KI Ihre Erwartungen nicht erfüllt. Wir haben kürzlich ein Upgrade des Memory-Service durchgeführt, um die Langzeitbindung zu verbessern. Dass angepinnte Nachrichten ignoriert werden, sollte nicht passieren.\n\nBitte senden Sie Screenshots der Fehler (vergessene Details oder falsches Verhalten) an support@fantachat.",
+  "reply_zh": "非常抱歉，AI 未能达到您的期望。我们最近对记忆服务进行了升级，以提升长期记忆能力。固定消息被忽略的情况本不应该发生。\n\n请将错误的截图（遗忘的细节或错误的行为）发送至 support@fantachat。",
+  "created_at": 1779671341
+}
