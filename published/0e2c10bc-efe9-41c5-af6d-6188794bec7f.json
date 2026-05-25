@@ -8,5 +8,7 @@
   "text_zh": "在大约 1000 条消息后，机器人就崩溃了。图片和视频生成也很糟糕，不过反正我也不用。",
   "reply_original": "Hi there, I am truly sorry for the unpleasant experience! After long chats, AI memory can sometimes hit a limit. We recently launched a brand-new Memory Service upgrade to improve long-term retention. Please try the Pin feature to save key details. For the image issues, please email screenshots to support@fantachat.ai so we can fix it!",
   "reply_zh": "你好，对于这次不愉快的使用体验，我深表歉意！在长时间对话后，AI 的记忆有时会达到上限。我们最近推出了全新的记忆服务升级，以提升长期记忆能力。请尝试使用“固定”（Pin）功能来保存关键细节。针对图片问题，请将截图发送至 support@fantachat.ai，以便我们进行修复！",
-  "created_at": 1779671421
+  "created_at": 1779671421,
+  "published_at": 1779673199,
+  "auto_published": false
 }
