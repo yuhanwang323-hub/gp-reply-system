@@ -8,5 +8,7 @@
   "text_zh": "甚至连角色都创建不了",
   "reply_original": "I'm sorry you're having trouble creating a character. To fix this, go to your Profile Page > [My Bot] and long-press a card to edit/delete. If the \"Create\" button is unresponsive, please email your UID and a screen recording to support@fantachat.ai. We want to help you build your perfect AI companion right away!",
   "reply_zh": "很抱歉您在创建角色时遇到困难。要解决此问题，请前往您的“个人资料页” > [我的机器人]，长按卡片即可进行编辑或删除。如果“创建”按钮没有反应，请将您的 UID 和屏幕录制发送至 support@fantachat.ai。我们希望立即帮助您打造完美的 AI 伴侣！",
-  "created_at": 1779671336
+  "created_at": 1779671336,
+  "published_at": 1779672661,
+  "auto_published": false
 }
