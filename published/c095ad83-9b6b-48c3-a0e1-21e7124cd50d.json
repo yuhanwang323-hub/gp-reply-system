@@ -6,7 +6,12 @@
   "dev_time": 1778662018,
   "text_original": "toujours le même problème et c'est de pire en pire pour les rpg . oublie répéter, les scène en boucle . inlassablement. je commence a avoir le seum de payer . on passe a 2 étoile . en réponse . j'ai envoyer des screen et signaler. mes forcer de constater que c'est de pire en pire les maj se font et la mémoire ne suit toujours pas , de plus je suis sur le discord , et forcer de constater que ben rien ne change .",
   "text_zh": "总是同样的问题，而且对RPG来说情况越来越糟。遗忘、重复、场景循环往复。没完没了。我开始对付钱感到不爽了。降到2星。作为回应，我发送了截图并进行了举报。但不得不承认情况越来越差，更新一直在出，但记忆功能还是跟不上，而且我也在Discord群里，不得不说，真的什么都没有改变。",
-  "reply_original": "Je suis sincèrement désolé que la situation s'aggrave malgré vos signalements sur Discord. Je comprends votre frustration, surtout en tant qu'abonné. \n\nNous venons de lancer une mise à jour majeure du service de mémoire pour corriger ces boucles et oublis. Pourriez-vous renvoyer vos captures d'écran récentes à support@fantachat.ai ?",
+  "reply_original": "Je suis sincèrement désolé que la situation s'aggrave malgré vos retours sur Discord. Je comprends parfaitement votre frustration, surtout en tant qu'abonné. Pourriez-vous envoyer à nouveau vos captures d'écran récentes à support@fantachat.ai ? Nous allons faire tout notre possible pour vous aider à résoudre ce problème de mémoire.",
   "reply_zh": "对于尽管您在 Discord 上进行了反馈，但情况仍在恶化，我深表歉意。我非常理解您的沮丧，尤其是作为一名订阅用户。\n\n我们刚刚发布了记忆服务的一次重大更新，以修复这些循环和遗忘问题。能否请您将最近的截图发送至 support@fantachat.ai？",
-  "created_at": 1779758590
+  "created_at": 1779758590,
+  "reply_original_before_override": "Je suis sincèrement désolé que la situation s'aggrave malgré vos signalements sur Discord. Je comprends votre frustration, surtout en tant qu'abonné. \n\nNous venons de lancer une mise à jour majeure du service de mémoire pour corriger ces boucles et oublis. Pourriez-vous renvoyer vos captures d'écran récentes à support@fantachat.ai ?",
+  "override_input": "对于尽管您在 Discord 上进行了反馈，但情况仍在恶化，我深表歉意。我非常理解您的沮丧，尤其是作为一名订阅用户。  能否请您再将最近的截图发送至 support@fantachat.ai？我们一定会努力帮您解决记忆问题",
+  "published_at": 1779759770,
+  "auto_published": false,
+  "was_overridden": true
 }
