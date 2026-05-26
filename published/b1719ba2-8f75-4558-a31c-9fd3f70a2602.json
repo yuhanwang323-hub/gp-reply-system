@@ -1,0 +1,17 @@
+{
+  "review_id": "b1719ba2-8f75-4558-a31c-9fd3f70a2602",
+  "star": 1,
+  "is_update": false,
+  "user_time": 1779750442,
+  "dev_time": 0,
+  "text_original": "Estaba todo bien hasta que borraron varios bots esta mañana.",
+  "text_zh": "一切都很顺利，直到今天早上他们删除了好几个机器人。",
+  "reply_original": "¡Lamentamos mucho saber que tus bots han desaparecido! Para ayudarte a recuperarlos, envía tu UID y los nombres de los bots desaparecidos a support@fantachat.ai. Investigaremos de inmediato qué ha sucedido.",
+  "reply_zh": "非常抱歉听到您的机器人消失了。我们没有进行过大规模删除，因此这可能是同步错误或由于 Google 的内容政策导致的。\n\n为了帮助您找回它们，请将您的 UID 和机器人名称发送至 support@fantachat.ai。我们会立即调查发生了什么。",
+  "created_at": 1779758519,
+  "reply_original_before_override": "Siento mucho que tus bots hayan desaparecido. No hemos realizado borrados masivos, por lo que podría tratarse de un error de sincronización o de las políticas de contenido de Google.\n\nPara ayudarte a recuperarlos, por favor envía tu UID y los nombres de los bots a support@fantachat.ai. Investigaremos qué sucedió de inmediato.",
+  "override_input": "非常抱歉听到您的机器人消失了！ 为了帮助您找回它们，请将您的 UID 和消失的机器人名称发送至 support@fantachat.ai。我们会立即调查发生了什么。",
+  "published_at": 1779758915,
+  "auto_published": false,
+  "was_overridden": true
+}
