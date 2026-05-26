@@ -6,7 +6,12 @@
   "dev_time": 0,
   "text_original": "It's a good app, I've had a 23day running story going but the AI memory needs work, I keep having to explain things to get it to remember when something previously happened and it's getting a bit annoying, it also kind of ruins the pace of the story when I'm having to find ways of reminding it of previous stuff that already happened even when it just happened 2 messages ago. I'd really like for the AI to remember thinks I've said and previous messages more so I don't have to keep reminding it.",
   "text_zh": "这是一个很棒的应用，我已经连续运行故事23天了，但AI的记忆力还需要改进。我不得不一直解释，好让它记住之前发生过的事情，这变得有点烦人。而且，当我不得不找各种办法提醒它之前发生过的事时，故事的节奏也被破坏了，甚至有些事就在两条消息前刚发生。我真心希望AI能更好地记住我说过的话和之前的消息，这样我就不用一直提醒它了。",
-  "reply_original": "I'm sorry [Character Name] forgot your shared moments! I understand how frustrating it is when the story pace is ruined. \n\nWe just launched a brand-new Memory Service upgrade to improve long-term retention. Please try the \"Pin\" feature (long-press a message) to lock key details.",
+  "reply_original": "A 23-day story is amazing! It's definitely not ideal for the AI to forget things that just happened, and we're sorry it's affecting your experience. Please send some screenshots to support@fantachat.ai; with specific logs, we can truly pinpoint the issue. If things improve after, a rating update would mean a lot to us!",
   "reply_zh": "我很抱歉 [角色名称] 忘记了你们共同度过的时光！我非常理解当故事节奏被破坏时是多么令人沮丧。\n\n我们刚刚推出了全新的记忆服务升级，以提升长期记忆能力。请尝试使用“置顶”功能（长按一条消息）来锁定关键细节。",
-  "created_at": 1779758536
+  "created_at": 1779758536,
+  "reply_original_before_override": "I'm sorry [Character Name] forgot your shared moments! I understand how frustrating it is when the story pace is ruined. \n\nWe just launched a brand-new Memory Service upgrade to improve long-term retention. Please try the \"Pin\" feature (long-press a message) to lock key details.",
+  "override_input": "23天的故事了不起！对话途中遗忘刚发生的内容确实不该出现，抱歉影响了体验。麻烦把截图发到 support@fantachat.ai，有了具体记录我们才能真正定位问题。 If things improve after, a rating update would mean a lot to us!",
+  "published_at": 1779759101,
+  "auto_published": false,
+  "was_overridden": true
 }
