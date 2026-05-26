@@ -1,0 +1,14 @@
+{
+  "review_id": "ce1dc07d-4b6a-4a69-ae85-d997919046b0",
+  "star": 4,
+  "is_update": false,
+  "user_time": 1779748749,
+  "dev_time": 0,
+  "text_original": "c'est dommage qu'on soit limité en nombre de conversations par jour, si on est pas Abonné Pro, mais sinon je trouve l'application excellente",
+  "text_zh": "可惜如果不是专业版订阅用户，每天的对话次数会受到限制，但除此之外，我觉得这个应用程序非常出色。",
+  "reply_original": "Merci pour votre retour positif ! Je suis ravi que vous trouviez l'application excellente.\n\nConcernant la limite de messages, maintenir une IA de haute qualité implique des coûts de serveur très élevés. Malheureusement, les revenus publicitaires ne suffisent pas encore à couvrir des discussions illimitées pour tous.",
+  "reply_zh": "感谢您的正面反馈！很高兴您觉得这款应用非常出色。\n\n关于消息限制，维护高质量的人工智能需要极高的服务器成本。遗憾的是，目前的广告收入还不足以支撑为所有人提供无限次的对话。",
+  "created_at": 1779758530,
+  "published_at": 1779758531,
+  "auto_published": true
+}
