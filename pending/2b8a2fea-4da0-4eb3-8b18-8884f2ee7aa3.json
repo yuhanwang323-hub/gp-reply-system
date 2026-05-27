@@ -1,0 +1,12 @@
+{
+  "review_id": "2b8a2fea-4da0-4eb3-8b18-8884f2ee7aa3",
+  "star": 1,
+  "is_update": false,
+  "user_time": 1779773515,
+  "dev_time": 0,
+  "text_original": "won't even finish downloading.",
+  "text_zh": "甚至无法完成下载。",
+  "reply_original": "I'm sorry you're having trouble downloading Fantasia. This is usually related to Google Play Store cache or network stability. Please try these steps:\n1. Check your internet connection.\n2. Go to Settings > Apps > Google Play Store > Storage > Clear Cache & Data.\n3. Restart your device and try again.",
+  "reply_zh": "很抱歉您在下载 Fantasia 时遇到问题。这通常与 Google Play 商店的缓存或网络稳定性有关。请尝试以下步骤：\n1. 检查您的网络连接。\n2. 前往 设置 > 应用 > Google Play 商店 > 存储 > 清除缓存和数据。\n3. 重启设备并重试。",
+  "created_at": 1779844525
+}
