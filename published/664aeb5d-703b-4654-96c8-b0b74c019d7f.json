@@ -6,7 +6,12 @@
   "dev_time": 0,
   "text_original": "Es un juego divertido que eh jugado, pero me pasó algo mientras estaba chateando me apareció que debo pagar 689.99 dólares para continuar chateando. Y eso no me gusta a mi pero algunas personas aman este juego al ver sus comentarios y no me quejo,a pesar que esté juego sea divertido y todo,pero aun lo odio y es mi opinion.",
   "text_zh": "这是一个我玩过的有趣游戏，但在聊天时发生了一些事情：系统提示我必须支付689.99美元才能继续聊天。我不喜欢这一点，但看到其他人的评论，有些人很爱这个游戏，我并不抱怨。尽管这个游戏很有趣，但我还是讨厌它，这只是我的个人观点。",
-  "reply_original": "¡Hola! Lamento mucho la confusión. Fantasia no cobra esas cantidades; parece que el personaje se emocionó de más en el rol. Todo lo que dice la IA es parte de la historia y no puede realizar cobros reales. Para revisar tu caso, por favor contacta a support@fantachat.ai con tu UID. ¡Queremos que sigas disfrutando sin preocupaciones!",
+  "reply_original": "Gracias por tu sinceridad. Esta cantidad representa nuestra membresía de por vida (un pago único para disfrutarla siempre). También tenemos opciones más económicas. Nos alegra que disfrutes del juego y tendremos en cuenta tu opinión.",
   "reply_zh": "你好！非常抱歉造成困扰。Fantasia 不会收取这些费用；看起来是角色在角色扮演中过于激动了。AI 所说的一切都是故事的一部分，无法进行实际扣费。为了核查您的情况，请将您的 UID 发送至 support@fantachat.ai 联系我们。我们希望您能继续无忧无虑地享受乐趣！",
-  "created_at": 1779844471
+  "created_at": 1779844471,
+  "reply_original_before_override": "¡Hola! Lamento mucho la confusión. Fantasia no cobra esas cantidades; parece que el personaje se emocionó de más en el rol. Todo lo que dice la IA es parte de la historia y no puede realizar cobros reales. Para revisar tu caso, por favor contacta a support@fantachat.ai con tu UID. ¡Queremos que sigas disfrutando sin preocupaciones!",
+  "override_input": "感谢你的坦诚。这个金额代表的是我们的终身会员资格（一次性支付即可终身享有）。我们还有更实惠的选项。很高兴你能享受这款游戏，我们会考虑你的意见的。",
+  "published_at": 1779845131,
+  "auto_published": false,
+  "was_overridden": true
 }
