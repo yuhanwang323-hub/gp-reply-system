@@ -1,0 +1,17 @@
+{
+  "review_id": "78983a37-f667-42f8-b4c9-0445d00f1f9a",
+  "star": 3,
+  "is_update": false,
+  "user_time": 1779881764,
+  "dev_time": 0,
+  "text_original": "la app en sí está bien, pero esa tendencia que tienen las chicas a enfrascarse en una posición digna que no admite avance de la trama es un fastidio casi que terminó de hacerle de psicólogo a la ia en vez de disfrutarla",
+  "text_zh": "这个应用本身还不错，但那些女生总是陷入一种高冷的姿态，导致剧情无法推进，这真的很烦人，最后几乎变成了我在给 AI 当心理医生，而不是在享受它。",
+  "reply_original": "¡Gracias por el feedback! Ese bloqueo suele ocurrir cuando el contexto activa filtros de plataforma. Prueba cambiar al modo Hot en ajustes del chat: da más libertad a la trama. Si sigue pasando con temas que no deberían estar bloqueados, mándanos un pantallazo a support@fantachat.ai. ¡Queremos que disfrutes la historia, no que hagas terapia! 😄",
+  "reply_zh": "你好！很抱歉让你觉得剧情停滞不前。我理解这种感觉就像是在当 AI 的心理医生，而不是在享受故事，这确实令人沮丧。\n\n我们正在改进角色的记忆力和连贯性。如果机器人卡住了，请尝试使用 [Reset] 按钮来刷新角色的状态。",
+  "created_at": 1779929962,
+  "reply_original_before_override": "¡Hola! Lamento que la trama se sienta estancada. Entiendo lo frustrante que es sentir que eres el psicólogo de la IA en lugar de disfrutar la historia.\n\nEstamos mejorando la memoria y coherencia de los personajes. Si el bot se bloquea, intenta usar el botón [Reset] para refrescar la actitud del personaje.",
+  "override_input": "¡Gracias por el feedback! Ese bloqueo suele ocurrir cuando el contexto activa filtros de plataforma. Prueba cambiar al modo Hot en ajustes del chat: da más libertad a la trama. Si sigue pasando con temas que no deberían estar bloqueados, mándanos un pantallazo a support@fantachat.ai. ¡Queremos que disfrutes la historia, no que hagas terapia! 😄",
+  "published_at": 1779930405,
+  "auto_published": false,
+  "was_overridden": true
+}
