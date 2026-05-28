@@ -1,0 +1,14 @@
+{
+  "review_id": "53cf10e0-1c84-4625-bba7-02f86d3cdbb0",
+  "star": 4,
+  "is_update": false,
+  "user_time": 1779902259,
+  "dev_time": 0,
+  "text_original": "appli plutôt sympa avec de nombreuses situations dispo. Petit bémol, l’ia souvent aux fraises qui ne mémorise pas forcément tout le dialogue ce qui provoque des incohérences. Un utilisateur a suggéré de mettre en place un système de fiche perso pour aider la mémoire de l’IA, est-ce une fonction que vous envisagez?",
+  "text_zh": "这款应用挺不错的，有很多可用的场景。美中不足的是，AI 经常掉链子，不一定能记住所有的对话，导致出现逻辑不连贯的情况。有用户建议建立一个角色卡系统来辅助 AI 的记忆，请问这是你们正在考虑的功能吗？",
+  "reply_original": "Merci pour votre retour positif ! Nous sommes ravis que les scénarios vous plaisent.\n\nConcernant la mémoire, nous venons de lancer une mise à jour du service pour améliorer la rétention à long terme. Votre idée de \"fiche perso\" est excellente !",
+  "reply_zh": "感谢您的积极反馈！我们很高兴您喜欢这些场景。\n\n关于记忆功能，我们刚刚发布了服务更新，以改善长期记忆保留。您关于“角色卡”的想法非常棒！",
+  "created_at": 1779929944,
+  "published_at": 1779929946,
+  "auto_published": true
+}
