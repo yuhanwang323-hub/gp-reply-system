@@ -1,0 +1,14 @@
+{
+  "review_id": "d6d1481a-cc73-402f-9512-976fd1660b3a",
+  "star": 4,
+  "is_update": false,
+  "user_time": 1780294824,
+  "dev_time": 0,
+  "text_original": "Some words are not allowed even if they are censored... Not good for redaction and immersion",
+  "text_zh": "有些词即使被审查了也是不被允许的……这不利于编辑和沉浸感。",
+  "reply_original": "Hi! I understand how content restrictions can break the immersion. To comply with Google Play policies, we must maintain certain filters, but we are constantly fine-tuning them to be more \"intelligent\" and less intrusive for roleplay. If you encounter specific words that feel unfairly blocked, please email us at support@fantachat.ai.",
+  "reply_zh": "你好！我理解内容限制可能会破坏沉浸感。为了遵守 Google Play 的政策，我们必须保留某些过滤器，但我们正在不断对其进行微调，使其更加“智能”，并减少对角色扮演的干扰。如果您遇到某些词汇被不合理地屏蔽，请发送邮件至 support@fantachat.ai 联系我们。",
+  "created_at": 1780364802,
+  "published_at": 1780364803,
+  "auto_published": true
+}
