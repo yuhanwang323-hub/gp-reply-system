@@ -8,5 +8,7 @@
   "text_zh": "坦白说挺好用的，但付了费还要付，最后变得太烦人了，我卸载了！！",
   "reply_original": "Je comprends votre frustration concernant les coûts. Maintenir une IA de haute qualité avec des réponses fluides engendre des frais de serveur (GPU) très élevés, ce qui rend l'accès illimité difficile sans abonnement.\n\nNous cherchons des solutions pour offrir plus de messages gratuits à l'avenir.",
   "reply_zh": "我理解您对费用的不满。维持一个能够提供流畅回答的高质量人工智能需要支付极高的服务器（GPU）费用，这使得在没有订阅的情况下很难提供无限次的访问。\n\n我们正在寻找解决方案，以便在未来提供更多免费消息额度。",
-  "created_at": 1780452405
+  "created_at": 1780452405,
+  "published_at": 1780452983,
+  "auto_published": false
 }
