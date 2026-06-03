@@ -1,0 +1,14 @@
+{
+  "review_id": "73759ce7-0b6d-418b-83e1-b84f31c025aa",
+  "star": 4,
+  "is_update": false,
+  "user_time": 1780406016,
+  "dev_time": 0,
+  "text_original": "\"I've been using this app for a while and even subscribed, but I’m having a persistent issue: it keeps loading endlessly for too long",
+  "text_zh": "我使用这个应用已经有一段时间了，甚至还订阅了，但我一直遇到一个顽固的问题：它总是无休止地加载太长时间。",
+  "reply_original": "Hi there! I am truly sorry for the unpleasant loading issue you've encountered. I completely understand how frustrating it is when you want to chat but the app won't respond, especially as a subscriber.\n\nTo help us fix this for you, please try clearing your app cache or switching your network.",
+  "reply_zh": "你好！对于你遇到的加载问题，我深表歉意。我完全理解作为订阅用户，在想要聊天时应用却无响应是多么令人沮丧。\n\n为了帮助我们为你解决此问题，请尝试清除应用缓存或切换网络。",
+  "created_at": 1780452416,
+  "published_at": 1780452417,
+  "auto_published": true
+}
