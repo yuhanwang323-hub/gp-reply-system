@@ -8,5 +8,7 @@
   "text_zh": "这个应用有聊天限制，这种限制根本就不应该存在",
   "reply_original": "Sinto muito pela frustração. Manter uma IA de alta qualidade exige altos custos de servidor (GPU) e, no momento, a receita de anúncios não cobre conversas ilimitadas para todos. Estamos trabalhando para equilibrar isso e oferecer novas formas de ganhar mensagens. Para dúvidas ou sugestões, escreva para support@fantachat.ai.",
   "reply_zh": "非常抱歉给您带来困扰。维持高质量的 AI 需要高昂的服务器（GPU）成本，目前广告收入无法覆盖所有人的无限次对话。我们正在努力平衡这一点，并提供获取消息次数的新方式。如有疑问或建议，请致信 support@fantachat.ai。",
-  "created_at": 1780452330
+  "created_at": 1780452330,
+  "published_at": 1780452672,
+  "auto_published": false
 }
