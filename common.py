@@ -18,7 +18,7 @@ PACKAGE_NAME = os.environ.get('PACKAGE_NAME')
 FEISHU_WEBHOOK = os.environ.get('FEISHU_WEBHOOK_URL')
 AI_KEY = os.environ.get('AI_REPLY_KEY')
 AI_URL = "https://openrouter.ai/api/v1/chat/completions"
-GEMINI_MODEL = "qwen/qwen3-30b-a3b"
+GEMINI_MODEL = "qwen/qwen3-8b"
 
 # 仓库地址，用于卡片里生成跳转链接
 GITHUB_REPO = os.environ.get('GITHUB_REPOSITORY', '')  # GitHub Actions 自动注入，例如 "user/repo"
