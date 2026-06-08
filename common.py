@@ -18,7 +18,7 @@ PACKAGE_NAME = os.environ.get('PACKAGE_NAME')
 FEISHU_WEBHOOK = os.environ.get('FEISHU_WEBHOOK_URL')
 AI_KEY = os.environ.get('AI_REPLY_KEY')
 AI_URL = "https://openrouter.ai/api/v1/chat/completions"
-AI_MODEL = "qwen/qwen3-30b-a3b"
+GEMINI_MODEL = "qwen/qwen3-30b-a3b"
 
 # 仓库地址，用于卡片里生成跳转链接
 GITHUB_REPO = os.environ.get('GITHUB_REPOSITORY', '')  # GitHub Actions 自动注入，例如 "user/repo"
@@ -88,7 +88,7 @@ def call_ai(prompt, temperature=0.3):
             AI_URL,
             headers={"Authorization": f"Bearer {AI_KEY}"},
             json={
-                "model": AI_MODEL,
+                "model": GEMINI_MODEL,
                 "messages": [{"role": "user", "content": prompt}],
                 "temperature": temperature,
                 "thinking": {"type": "disabled"},
