@@ -151,13 +151,14 @@ def match_language_of(text, reference_text):
 # ================= 生成回复 =================
 def generate_ai_reply(text, star, skill_pack, is_update=False):
     update_note = "【注意：这是用户的追评，请针对其更新的内容回答，并感谢其反馈更新】" if is_update else ""
-    prompt = f"""
+    prompt = f"""CRITICAL RULE: Detect the language of the user's review and reply in EXACTLY that same language. If the review is in English, reply in English. If in French, reply in French. If in Indonesian, reply in Indonesian. NEVER reply in Chinese unless the review itself is written in Chinese.
+
     技能包：
 {skill_pack}
     任务：{update_note}
     用户评价（{star}星）: {text}
     要求：
-    1.相同语种回复
+    1.必须使用与用户评价完全相同的语种回复，禁止使用中文回复非中文评价。
     2.严禁超过350字符。
     3.直接输出内容。
     4.如果内容过多，请优先保留核心解决方案，删掉客套话。
