@@ -1,0 +1,14 @@
+{
+  "review_id": "da8a9d55-6ab9-4207-b011-1768308d9c69",
+  "star": 5,
+  "is_update": false,
+  "user_time": 1780925024,
+  "dev_time": 0,
+  "text_original": "just dispointed by chat bot memory it's annoying that bot forgots every past chat",
+  "text_zh": "对聊天机器人的记忆力感到失望，机器人把之前所有的聊天内容都忘了，真让人烦。",
+  "reply_original": "I'm sorry the bot forgot your chats! We recently upgraded our Memory Service to improve retention. You can also use the Pin feature to save key details. Please email screenshots of the issue to support@fantachat.ai so our team can investigate and fix this for you. Thank you for helping us improve!",
+  "reply_zh": "很抱歉机器人忘记了您的聊天记录！我们最近升级了记忆服务以提升保留效果。您还可以使用固定功能来保存关键细节。请将该问题的截图发送邮件至 support@fantachat.ai，以便我们的团队进行调查并为您解决此问题。感谢您帮助我们改进！",
+  "created_at": 1780968668,
+  "published_at": 1780968669,
+  "auto_published": true
+}

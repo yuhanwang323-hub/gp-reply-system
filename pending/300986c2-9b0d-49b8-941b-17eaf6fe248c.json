@@ -1,0 +1,12 @@
+{
+  "review_id": "300986c2-9b0d-49b8-941b-17eaf6fe248c",
+  "star": 4,
+  "is_update": true,
+  "user_time": 1780887603,
+  "dev_time": 1773828180,
+  "text_original": "me gustaría poder recuperar los chats borrados, si los guardan pues que sea para reutilizarlos. edit: eso hice pero solo me permite leerlo, no reestablecerlo para continuar, me gustaría una opción de \"restaurar\" para recuperarlo.",
+  "text_zh": "我希望能恢复已删除的聊天记录，如果你们保存了它们，那就应该能重新使用。编辑：我试过了，但它只允许我阅读，无法恢复并继续，我希望能有一个“恢复”选项来找回它。",
+  "reply_original": "¡Gracias por tu actualización! Entiendo lo que pides. Actualmente, para continuar un chat del historial, nuestro equipo debe restaurarlo de forma manual. Ten en cuenta que esto borrará el chat actual con ese personaje. Escríbenos a support@fantachat.ai con tu UID y el nombre del personaje para hacerlo. ¡Apuntamos tu sugerencia para el futuro!",
+  "reply_zh": "感谢您的更新！我明白您的需求。目前，要继续历史记录中的对话，我们的团队必须手动进行恢复。请注意，这将会清除您当前与该角色的对话。请发送邮件至 support@fantachat.ai，并附上您的 UID 和角色名称以便我们处理。我们已记录下您的建议，以供未来参考！",
+  "created_at": 1780968986
+}
