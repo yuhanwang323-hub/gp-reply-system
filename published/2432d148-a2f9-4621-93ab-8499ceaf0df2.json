@@ -1,0 +1,17 @@
+{
+  "review_id": "2432d148-a2f9-4621-93ab-8499ceaf0df2",
+  "star": 1,
+  "is_update": false,
+  "user_time": 1780918776,
+  "dev_time": 0,
+  "text_original": "My account kinda bug (already tested out on another account) , seems like I need to use coins to be able to chat, even though I'm already paid for a subscription to get unlimited chat.",
+  "text_zh": "我的账号好像出bug了（已经在另一个账号上测试过了），似乎我需要用金币才能聊天，尽管我明明已经付费订阅了无限聊天。",
+  "reply_original": "Hello, we are very sorry for the inconvenience! We will resolve this issue for you immediately. Please send an email to support@fantachat.ai and provide the following information:\n\n1. Your UID (located at the bottom of \"Settings\").\n2. Your Google purchase email.\n3. A screenshot of your Google Play receipt (showing the GPA order number).",
+  "reply_zh": "您好，非常抱歉给您带来不便！我们会立即为您解决这个问题。请发送邮件至 support@fantachat.ai，并提供以下信息：\n1. 您的 UID（位于“设置”底部）。\n2. 您的 Google 购买邮箱。\n3. 您的 Google Play 收据截图（需显示 GPA 订单号）。\n收到后，我们将立即为您手动恢复 VIP 权益！",
+  "created_at": 1780968778,
+  "reply_original_before_override": "Hi there, I am truly sorry for the trouble! Let's fix this immediately. Please email support@fantachat.ai with:\n1. Your UID (bottom of Settings).\n2. Your Google purchase email.\n3. A screenshot of your Google Play receipt (showing the GPA order ID).\nOnce received, we will manually restore your VIP status right away!",
+  "override_input": "您好，非常抱歉给您带来不便！我们会立即为您解决这个问题。请发送邮件至 support@fantachat.ai，并提供以下信息： 1. 您的 UID（位于“设置”底部）。 2. 您的 Google 购买邮箱。3、您的 Google Play 收据截图（需显示 GPA 订单号）。",
+  "published_at": 1780969439,
+  "auto_published": false,
+  "was_overridden": true
+}
