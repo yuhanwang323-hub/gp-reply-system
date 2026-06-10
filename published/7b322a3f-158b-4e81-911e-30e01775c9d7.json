@@ -8,5 +8,7 @@
   "text_zh": "还行吧。我挺喜欢这个游戏本身的，但它经常忘记之前的剧情或你的名字，即使买了会员也是如此。更新后变得更糟了。不得不一直提醒机器人之前的记忆或聊天内容真的很烦人，尤其是考虑到会员的价格，而会员本来应该能防止这种情况发生的。",
   "reply_original": "I'm truly sorry for the frustration with the memory issues, especially as a member. We recently upgraded our memory system, and the AI is still adapting. Please try using the \"Pin\" feature to lock key details. If it still forgets, please email your UID and screenshots to support@fantachat.ai so we can investigate and fix this.",
   "reply_zh": "对于记忆问题给您带来的困扰，我深表歉意，特别是作为会员。我们最近升级了记忆系统，AI 仍在适应中。请尝试使用“Pin”功能来锁定关键细节。如果它仍然会遗忘，请将您的 UID 和截图发送邮件至 support@fantachat.ai，以便我们进行调查和修复。",
-  "created_at": 1781053859
+  "created_at": 1781053859,
+  "published_at": 1781055532,
+  "auto_published": false
 }
