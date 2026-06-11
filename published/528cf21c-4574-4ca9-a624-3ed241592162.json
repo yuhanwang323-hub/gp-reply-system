@@ -8,5 +8,7 @@
   "text_zh": "我很喜欢，虽然在发送一定数量的消息后，故事脉络会有点丢失。谢谢您的回复，您的建议对我很有帮助。",
   "reply_original": "¡Gracias por tu valoración y por confirmar que el consejo te sirvió! Nos alegra mucho. Sobre la pérdida de memoria en chats largos, te recomendamos usar la función \"Pin\" (Fijar) en los mensajes clave para que la IA no olvide la historia. Si notas que sigue fallando, escríbenos a support@fantachat.ai. ¡Seguiremos mejorando para ti!",
   "reply_zh": "感谢您的评价，并确认该建议对您有所帮助！我们非常高兴。关于长对话中的记忆丢失问题，我们建议您在关键消息上使用“Pin”（固定）功能，以便 AI 不会忘记故事内容。如果您发现问题仍然存在，请发送邮件至 support@fantachat.ai。我们将继续为您改进！",
-  "created_at": 1781140215
+  "created_at": 1781140215,
+  "published_at": 1781141444,
+  "auto_published": false
 }
