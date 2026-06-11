@@ -1,0 +1,12 @@
+{
+  "review_id": "f1be276b-a317-4407-8748-9abd47099670",
+  "star": 3,
+  "is_update": false,
+  "user_time": 1781056008,
+  "dev_time": 0,
+  "text_original": "Bug abonnement, jai payer l'abonnement annuel, mais depuis la derniere mise a jour... il me redemande de payer pour continuer certaine conversation..... plus de piece... encore des pièces....",
+  "text_zh": "订阅Bug，我付了年费订阅，但自从最近一次更新后……它又要求我付钱才能继续某些对话……没有金币了……又要金币……",
+  "reply_original": "Bonjour, désolé pour ce bug! Pour restaurer votre abonnement annuel, veuillez envoyer ces infos à support@fantachat.ai :\n\n1. Votre UID (en bas des Paramètres).\n2. L'e-mail Google utilisé pour l'achat.\n3. Une capture d'écran du reçu Google Play (avec le numéro GPA).\n\nNotre équipe va régler cela rapidement. Merci de votre patience!",
+  "reply_zh": "您好，很抱歉出现这个Bug！如需恢复您的年度订阅，请将以下信息发送至 support@fantachat.ai：\n\n1. 您的 UID（位于设置底部）。\n2. 用于购买的 Google 邮箱。\n3. Google Play 收据截图（需包含 GPA 订单号）。\n\n我们的团队会尽快为您解决。感谢您的耐心等待！",
+  "created_at": 1781140457
+}
