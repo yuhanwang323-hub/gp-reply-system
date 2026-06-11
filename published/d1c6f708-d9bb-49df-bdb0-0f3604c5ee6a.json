@@ -6,7 +6,12 @@
   "dev_time": 0,
   "text_original": "eu gostei bastante, porém paguei pelo vip anual, a memória é ruim, tem apenas 50 mensagens que podem ser fixadas, e mesmo utilizando esse recurso a conversa se perde, ele inventa uma história nada haver por que não se lembra do histórico mesmo com o pin, e agora, vamos nos lembrar que o vip não é barato, eu não consigo mandar mensagens por que tem um limite? e querem que eu compre moedas? poxa, é um abusrdo considerando que eu ja paguei, e como paguei pelo ano inteiro, não posso nem desinstalar",
   "text_zh": "我挺喜欢的，但我付了年度VIP，它的记忆力却很差，只能置顶50条消息，而且即使用了这个功能，对话还是会丢失。它会胡编乱造一些毫不相干的故事，因为即使置顶了它也记不住历史记录。而且，我们要知道VIP并不便宜，我现在居然因为有限制而无法发送消息？他们还想让我买金币？天哪，考虑到我已经付过钱了，这简直太荒谬了。而且因为我付了一整年的钱，我甚至都无法卸载。",
-  "reply_original": "Sinto muito pelo transtorno. Como VIP anual, você deveria ter chats ilimitados. Se há limite de mensagens, é um erro de sincronização. Também estamos otimizando a memória e o recurso Pin. Por favor, envie seu UID e o comprovante de compra para support@fantachat.ai. Vamos verificar e resolver o seu problema imediatamente!",
+  "reply_original": "Agradecemos pelo feedback detalhado! Para o problema de memória, envie um e-mail para support@fantachat.ai com o seu UID e um print de tela para que possamos investigar. Quanto ao limite de mensagens, você pode estar usando o modelo Ultra, que cobra por mensagem mesmo para VIP.",
   "reply_zh": "很抱歉给您带来不便。作为年度VIP，您应该拥有无限聊天额度。如果存在消息限制，这属于同步错误。我们也正在优化记忆和置顶功能。请将您的UID和购买凭证发送至 support@fantachat.ai。我们会立即为您核实并解决问题！",
-  "created_at": 1781140243
+  "created_at": 1781140243,
+  "reply_original_before_override": "Sinto muito pelo transtorno. Como VIP anual, você deveria ter chats ilimitados. Se há limite de mensagens, é um erro de sincronização. Também estamos otimizando a memória e o recurso Pin. Por favor, envie seu UID e o comprovante de compra para support@fantachat.ai. Vamos verificar e resolver o seu problema imediatamente!",
+  "override_input": "Thanks for the detailed feedback! For the memory issue, please email us at support@fantachat.ai with your UID and a screenshot so we can investigate. For the message limit, you may be using the Ultra model, which charges per message even for VIP. Try switching models via the cube icon on the left of the chat bar.",
+  "published_at": 1781141725,
+  "auto_published": false,
+  "was_overridden": true
 }
