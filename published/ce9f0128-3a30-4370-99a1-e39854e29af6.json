@@ -8,5 +8,7 @@
   "text_zh": "RPG聊天中不必要的限制，且需要会员才能继续。",
   "reply_original": "Kami memahami kekecewaan Anda tentang batasan chat. Biaya server AI (GPU) sangat tinggi, sehingga fitur premium diperlukan untuk menjaga kualitas aplikasi. Namun, kami terus mencari cara agar pengguna gratis bisa menikmati lebih banyak chat. Silakan kirim masukan Anda ke support@fantachat.ai agar kami bisa membantu Anda lebih lanjut.",
   "reply_zh": "我们理解您对聊天限制的失望。AI服务器（GPU）的成本非常高，因此需要推出高级功能来保持应用质量。然而，我们一直在寻找方法，让免费用户能够享受更多的聊天次数。请将您的反馈发送至 support@fantachat.ai，以便我们为您提供进一步的帮助。",
-  "created_at": 1781485490
+  "created_at": 1781485490,
+  "published_at": 1781487450,
+  "auto_published": false
 }
