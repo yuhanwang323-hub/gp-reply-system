@@ -1,0 +1,14 @@
+{
+  "review_id": "f190d94a-e48e-429b-9258-da71a4689252",
+  "star": 4,
+  "is_update": false,
+  "user_time": 1781440413,
+  "dev_time": 0,
+  "text_original": "I will give it 5 stars but first time it was good but now it wont open saying network eror but my network completely good",
+  "text_zh": "我会给它打5星，但第一次用的时候挺好的，现在却打不开了，提示网络错误，但我的网络明明很好。",
+  "reply_original": "Hi! So sorry for the network error. Please try clearing the app cache, restarting your phone, or switching between Wi-Fi and mobile data. If it still won't open, please email us at support@fantachat.ai with your UID and device details. We'll investigate immediately to get you back to a 5-star experience!",
+  "reply_zh": "你好！非常抱歉出现网络错误。请尝试清除应用缓存、重启手机，或在 Wi-Fi 和移动数据之间进行切换。如果仍然无法打开，请发送邮件至 support@fantachat.ai，并提供您的 UID 和设备信息。我们会立即进行排查，帮您恢复五星级的体验！",
+  "created_at": 1781485559,
+  "published_at": 1781485560,
+  "auto_published": true
+}
