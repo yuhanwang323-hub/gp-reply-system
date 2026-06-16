@@ -8,5 +8,7 @@
   "text_zh": "无法在“Google Play”（即Play商店）中取消订阅，在应用内也无法取消。正在卸载。",
   "reply_original": "We are sorry to see you go. To cancel: Open Google Play Store -> Tap your profile icon -> Payments & subscriptions -> Subscriptions -> Find Fantasia -> Cancel subscription. If you face any issues, please email us at support@fantachat.ai with your UID so we can assist you immediately. We hope to see you again!",
   "reply_zh": "很遗憾看到您离开。如需取消：打开 Google Play 商店 -> 点击您的个人资料图标 -> 付款和订阅 -> 订阅 -> 找到 Fantasia -> 取消订阅。如果您遇到任何问题，请发送电子邮件至 support@fantachat.ai 并附上您的 UID，以便我们能立即为您提供帮助。期待再次见到您！",
-  "created_at": 1781600390
+  "created_at": 1781600390,
+  "published_at": 1781600483,
+  "auto_published": false
 }
