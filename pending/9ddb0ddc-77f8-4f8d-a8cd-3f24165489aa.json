@@ -1,0 +1,12 @@
+{
+  "review_id": "9ddb0ddc-77f8-4f8d-a8cd-3f24165489aa",
+  "star": 1,
+  "is_update": false,
+  "user_time": 1781498257,
+  "dev_time": 0,
+  "text_original": "this app cannot refund your accedental purchase.",
+  "text_zh": "此应用无法退还您的意外购买款项。",
+  "reply_original": "Hi! I'm sorry for the accidental purchase. Since Google manages all payments, we cannot process refunds directly. You can request a refund via Google Play: Open Play Store -> Profile -> Payments & subscriptions -> Budget & history -> Find order -> Request refund. For further help, please email us at support@fantachat.ai.",
+  "reply_zh": "你好！对于您的误购，我们深表歉意。由于所有付款均由 Google 管理，我们无法直接为您办理退款。您可以通过 Google Play 申请退款：打开 Play 商店 -> 个人资料 -> 付款和订阅 -> 预算和历史记录 -> 找到订单 -> 申请退款。如需进一步帮助，请发送电子邮件至 support@fantachat.ai。",
+  "created_at": 1781572256
+}

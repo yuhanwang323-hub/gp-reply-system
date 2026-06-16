@@ -1,0 +1,12 @@
+{
+  "review_id": "6ebcb215-1976-4307-92ad-b3a68d4b2e48",
+  "star": 3,
+  "is_update": false,
+  "user_time": 1781510687,
+  "dev_time": 0,
+  "text_original": "\"The app is great overall and the memory feature works really well. However, I'm quite disappointed with the message limit. Once my chats run out, I have to wait an entire day just to get them back, which really interrupts the experience. It would be much better if the messages were unlimited so users could chat freely without having to wait. Please consider removing the daily reset timer and making messaging unlimited — that one change would make this app so much better!\"",
+  "text_zh": "这款应用整体上非常棒，记忆功能也非常好用。然而，我对消息限制感到相当失望。一旦聊天额度用完，我必须等上整整一天才能恢复，这真的很影响体验。如果消息是无限的，用户可以自由聊天而无需等待，那就好多了。请考虑取消每日重置计时器，并提供无限消息——这一个改变就会让这款应用变得好得多！",
+  "reply_original": "Thanks for the feedback! We are glad you like the memory feature. We hear you on the message limit. Since running high-quality AI incurs high server costs, unlimited free chat is hard to sustain. We are working on ways to offer more free messages. Please share more thoughts or questions with us at support@fantachat.ai.",
+  "reply_zh": "感谢您的反馈！我们很高兴您喜欢记忆功能。关于消息限制，我们听到了您的意见。由于运行高质量 AI 会产生高昂的服务器成本，无限免费聊天很难持续。我们正在努力寻找提供更多免费消息的方法。请通过 support@fantachat.ai 与我们分享您的更多想法或问题。",
+  "created_at": 1781572177
+}
