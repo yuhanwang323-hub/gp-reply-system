@@ -8,5 +8,7 @@
   "text_zh": "这是怎么回事？我用这个已经挺久了，一直很满意，目前已经创建了20个机器人。现在我打开App，突然发现其中16个变成了“未列出”！！！这到底是什么情况？",
   "reply_original": "Hallo! Es tut uns leid, dass deine Bots plötzlich nicht gelistet sind. Dies kann an automatischen Richtlinienprüfungen liegen. Bitte sende uns deine UID und die Namen der Bots an support@fantachat.ai. Unser Team wird das sofort für dich prüfen und beheben. Vielen Dank für deine Geduld!",
   "reply_zh": "你好！很抱歉您的机器人突然未被列出。这可能是由于自动政策审查导致的。请将您的 UID 和机器人名称发送至 support@fantachat.ai。我们的团队会立即为您检查并解决此问题。非常感谢您的耐心等待！",
-  "created_at": 1781658465
+  "created_at": 1781658465,
+  "published_at": 1781658763,
+  "auto_published": false
 }
