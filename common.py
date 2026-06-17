@@ -18,7 +18,7 @@ PACKAGE_NAME = os.environ.get('PACKAGE_NAME')
 FEISHU_WEBHOOK = os.environ.get('FEISHU_WEBHOOK_URL')
 AI_KEY = os.environ.get('AI_REPLY_KEY')
 AI_URL = "https://zenmux.ai/api/v1/chat/completions"
-GEMINI_MODEL = "google/gemini-3.5-flash"
+GEMINI_MODEL = "google/gemini-2.5-flash"
 
 # 仓库地址，用于卡片里生成跳转链接
 GITHUB_REPO = os.environ.get('GITHUB_REPOSITORY', '')  # GitHub Actions 自动注入，例如 "user/repo"
